@@ -6,7 +6,7 @@
 
 **AI and new tech explained honestly. No Hype.**
 
-With No Hype is an open educational project about AI agents, MCP, skills, tools, and agentic systems.
+With No Hype is an open education project for clear, practical books and courses about AI, engineering, and new tech.
 
 ## Current project
 
