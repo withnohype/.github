@@ -1,7 +1,7 @@
 # With No Hype
 
 <p align="center">
-  <img src="./assets/banner.jpg" alt="With No Hype — AI and new tech explained honestly. No Hype." width="100%">
+  <img src="./assets/banner.png" alt="With No Hype — AI and new tech explained honestly. No Hype." width="100%">
 </p>
 
 **AI and new tech explained honestly. No Hype.**
